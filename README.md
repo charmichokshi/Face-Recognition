@@ -1,2 +1,6 @@
 # Face-Recognition
-Face Recognition using SVD and PCA+LDA+KNN
+Face Recognition using 2 different methids
+
+1. **Singular Vector Decomposition**
+
+2. **PCA + LDA + KNN**
