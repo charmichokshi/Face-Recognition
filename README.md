@@ -5,4 +5,4 @@ Face Recognition using 3 different methods
 
 2. **PCA + LDA + KNN**
 
-3. **COnvolution Neural Network**
+3. **Convolution Neural Network**
